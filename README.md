@@ -124,11 +124,11 @@ int main() {
 ## OUTPUT
 $ ./sem.o 
 
-<img width="1001" height="515" alt="image" src="https://github.com/user-attachments/assets/e94413d9-2cf4-42dc-92a8-5154d65a5112" />
+![alt text](img/image.png)
 
 $ ipcs
 
-<img width="1001" height="392" alt="image" src="https://github.com/user-attachments/assets/286aba25-090d-4649-b8f4-58732af692cd" />
+![alt text](img/image-1.png)
 
 # RESULT:
 The program is executed successfully.
